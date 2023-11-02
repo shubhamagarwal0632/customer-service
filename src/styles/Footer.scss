@@ -1,0 +1,15 @@
+@import 'colors';
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    >div{
+
+        >a,p{
+            font-family: cursive;
+            color: black;
+        }
+    }
+}
