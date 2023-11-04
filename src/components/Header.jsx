@@ -10,10 +10,10 @@ const Header = () => {
 
         <HashLink to={'/#home'}>Home</HashLink>    
         <HashLink to={'/#contact'}>About</HashLink>    
-        <HashLink to={'/#about'}>contact</HashLink>    
+        <HashLink to={'/#about'}>Contact</HashLink>    
         <HashLink to={'/#brands'}>Brands</HashLink>    
-        <Link to={'/#services'}>Services</Link>    
-        <Link to={'/login'}>login</Link>    
+        {/* <Link to={'/#services'}>Services</Link>     */}
+        <Link to={'/login'}>Login</Link>    
             </main>
         </nav>
     </div>
